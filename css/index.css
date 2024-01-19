@@ -424,6 +424,24 @@ i {
   margin-top: -300px;
   width: 500px;
 }
+#box03 i{
+  float: left;
+  margin-left: 400px;
+  margin-top: -300px;
+  width: 550px;
+}
+#box04 i{
+  float: left;
+  margin-left: 400px;
+  margin-top: -300px;
+  width: 450px;
+}
+#box05 i{
+  float: left;
+  margin-left: 400px;
+  margin-top: -300px;
+  width: 300px;
+}
 
 #earth {
   float: right;
