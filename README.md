@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 우하하하하
+
+저녁메뉴추천
 <!--
 **eggzuxi/eggzuxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
